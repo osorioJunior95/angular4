@@ -1,8 +1,6 @@
 class Hero {
-  const HEROES: Hero[] = [
-    {id: 11, name: 'Mr. Nice'}
-  ]
+  id : number;
+  name: string;
 }
-
 
 export { Hero }
